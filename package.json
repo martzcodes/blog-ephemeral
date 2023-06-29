@@ -11,7 +11,7 @@
     "cdk": "cdk"
   },
   "devDependencies": {
-    "@aws-community/ephemeral": "^2.0.3",
+    "@aws-community/ephemeral": "^2.1.0",
     "@types/jest": "^29.4.0",
     "@types/node": "18.11.18",
     "aws-cdk": "2.85.0",
